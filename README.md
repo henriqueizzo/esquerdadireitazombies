@@ -51,19 +51,6 @@ Abra no navegador (Chrome, Safari, Edge, Firefox) — funciona no celular e no c
 - Colete (armor), sistema de ondas e dificuldade crescente
 - Vozes dos zumbis, efeitos sonoros e música de entrada
 
-## 🚀 Como publicar / atualizar (GitHub Pages)
-
-**Primeira publicação:**
-1. Suba o `index.html` (e este README) para o repositório.
-2. Vá em **Settings → Pages**.
-3. Em **Source**, escolha **Deploy from a branch**.
-4. Em **Branch**, selecione `main` e a pasta `/ (root)`. Clique em **Save**.
-5. Aguarde ~1 minuto. O link público aparece no topo da página.
-
-**Atualizar o jogo depois:**
-- Substitua o arquivo `index.html` no repositório (mantendo o nome **exatamente** `index.html`, sem "(2)").
-- Aguarde ~1 minuto e recarregue com **Ctrl + Shift + R**.
-
 ## 📝 Notas
 
 - Tudo (gráficos, sons, vozes, música) é gerado/embutido no próprio `index.html`. Não há dependências externas.
